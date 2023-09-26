@@ -14,7 +14,7 @@
 
 #### Semana 02
 
-[ ] Dia 08 - Contagem de Vogais e Consoantes&nbsp;
+[✅] Dia 08 - Contagem de Vogais e Consoantes&nbsp;
 [ ] Dia 09 - Verificador de Palíndromo&nbsp;
 [ ] Dia 10 - Calculadora de Juros Compostos&nbsp;
 [ ] Dia 11 - Calculadora de Média de Notas&nbsp;
