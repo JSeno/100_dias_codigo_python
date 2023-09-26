@@ -4,12 +4,12 @@
 
 #### Semana 01
 
-[✅] Dia 01 - Jogo da Adivinhação&nbsp;
-[✅] Dia 02 - Calculadora simples&nbsp;
-[✅] Dia 03 - Ano bissexto&nbsp;
-[✅] Dia 04 - Calculadora de IMC&nbsp;
-[✅] Dia 05 - Conversor de Temperatura&nbsp;
-[✅] Dia 06 - Contador de palavras&nbsp;
+[✅] Dia 01 - Jogo da Adivinhação&nbsp;  
+[✅] Dia 02 - Calculadora simples&nbsp;  
+[✅] Dia 03 - Ano bissexto&nbsp;  
+[✅] Dia 04 - Calculadora de IMC&nbsp;  
+[✅] Dia 05 - Conversor de Temperatura&nbsp;  
+[✅] Dia 06 - Contador de palavras&nbsp;  
 [✅] Dia 07 - Gerador de senhas&nbsp;
 
 #### Semana 02
