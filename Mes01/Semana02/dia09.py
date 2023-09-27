@@ -10,6 +10,6 @@ def verficador_palindromo(texto):
 seu_texto = str(input("Digite seu texto:\n"))
 
 if verficador_palindromo(seu_texto):
-    print(f"Seu texto é palíndromo {seu_texto}")
+    print(f"Seu texto {seu_texto} é palíndromo")
 else:
     print(f"Seu texto {seu_texto} não é um palíndromo")
