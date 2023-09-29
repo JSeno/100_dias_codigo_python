@@ -2,23 +2,33 @@
         Cálculo de juros compostos
 """
 
-"""
-A é o montante total após o período de tempo t.
-P é o principal (ou o valor inicial) investido ou emprestado.
-r é a taxa de juros anual (em forma decimal).
-n é o número de vezes que os juros são compostos por ano (frequência de capitalização).
-t é o número de anos que o dinheiro é investido ou emprestado.
-"""
+def calc_juros_compostos():
+    capital = float(input("Digite o valor Capital: "))
+    taxa_juros = float(input("Digite a taxa de juros anual (em decimal): "))
+    juros_ano = int(input("Digite o número de vezes que os juros são compostos por ano: "))
+    tempo = float(input("Digite o número de anos: "))
+    
+    montante = capital * (1 + taxa_juros / juros_ano)**(juros_ano * tempo)
+    return montante
 
-def calcula_juros_compostos(P, r, n, t):
-    A = P * (1 + r/n)**(n*t)
-    return A
+def calc_juros_simples():
+    capital = float(input("Qual é o valor do capital? "))
+    taxa_juros = float(input("Qual é o valor da taxa de juros? ")) / 100
+    tempo = int(input("Duração de tempo (em anos): "))
+    
+    montante = capital + (capital * taxa_juros * tempo)
 
-P = float(input("Digite o valor principal (P): "))
-r = float(input("Digite a taxa de juros anual (em decimal): "))
-n = int(input("Digite o número de vezes que os juros são compostos por ano (n): "))
-t = float(input("Digite o número de anos (t): "))
+    return montante
 
-montante_total = calcula_juros_compostos(P, r, n, t)
+choice = input("Você gostaria de calcular juros simples (S) ou compostos (C):\n").lower()
+if choice == "s":
+    print("Você escolheu juros simples\n")
+    montante = calc_juros_simples()
+    print(f"O montante total é: R$ {montante:.2f}")
+elif choice == "c":
+    print("Você escolheu juros compostos\n")
+    montante = calc_juros_compostos()
+    print(f"O montante total é: R$ {montante:.2f}")
+else:
+    print('Escolha inválida')
 
-print(f"O montante total após {t} anos será: R$ {montante_total:.2f}")
