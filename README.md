@@ -18,6 +18,6 @@
 [✅] Dia 09 - Verificador de Palíndromo&nbsp;  
 [✅] Dia 10 - Calculadora de Juros Compostos&nbsp;  
 [✅] Dia 11 - Calculadora de Média de Notas&nbsp;  
-[ ] Dia 12 - Conversor de Moeda&nbsp;  
+[✅] Dia 12 - Conversor de Moeda&nbsp;  
 [ ] Dia 13 - Gerador de Tabuada&nbsp;  
 [ ] Dia 14 - Lista de Tarefas (To-Do List)&nbsp;
