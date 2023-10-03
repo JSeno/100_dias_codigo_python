@@ -12,7 +12,7 @@ api_response = requests.get(f"https://api.invertexto.com/v1/currency/USD_BRL?tok
 
 if api_response.status_code == 200:
     data = api_response.json()
-    usd_brl_data = data.get('USD_BRL', {})
+    usd_brl_data = data.get('BRL_USD', {})
     taxa_cambio = usd_brl_data.get('price')
     print(f'O valor do Dollar é: {taxa_cambio:.2f}')
 else:

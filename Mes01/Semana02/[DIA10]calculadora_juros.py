@@ -1,5 +1,5 @@
 """
-        Cálculo de juros compostos
+        Cálculo de juros
 """
 
 def calc_juros_compostos():

@@ -36,6 +36,6 @@
 [ ] Dia 18 - Jogo de Dados Simples (Simulação de um dado de 6 lados)&nbsp;  
 [ ] Dia 19 - Calculadora de Potência&nbsp;  
 [ ] Dia 20 - Concatenador de Strings&nbsp;  
-[ ] Dia 21 - Verificador de Ano Bissexto&nbsp;
+[ ] Dia 21 - Verificador de CEP por API via CEP&nbsp;
 
 ---
