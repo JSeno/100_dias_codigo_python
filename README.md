@@ -31,7 +31,7 @@
 #### Semana 03
 
 [✅] Dia 15 - Verificador de Números Ímpares&nbsp;  
-[ ] Dia 16 - Calculadora de Média de 3 Números&nbsp;  
+[✅] Dia 16 - Calculadora de Média de 3 Números&nbsp;  
 [ ] Dia 17 - Contador de Caracteres em uma Frase&nbsp;  
 [ ] Dia 18 - Jogo de Dados Simples (Simulação de um dado de 6 lados)&nbsp;  
 [ ] Dia 19 - Calculadora de Potência&nbsp;  
