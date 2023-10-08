@@ -2,3 +2,8 @@
 venv
 /venv
 /venv/
+__pycache
+pycache
+.pytest_cache
+/vscode
+vscode

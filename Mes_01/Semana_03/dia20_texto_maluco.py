@@ -3,8 +3,6 @@
 """
 import random
 
-import random
-
 def historia_maluca():
     sujeitos = ['O elefante', 'Um macaco', 'O pirata', 'Um ninja', 'Um alienígena', 'A bruxa', 'O cientista louco', 'O velho careca']
     verbos = ['dançou', 'comeu', 'encontrou', 'hipnotizou', 'construiu', 'teleportou', 'transformou', 'correu']
