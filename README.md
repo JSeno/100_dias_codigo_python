@@ -36,6 +36,6 @@
 [✅] Dia 18 - Jogo de Dados Simples (Simulação de um dado de 6 lados)&nbsp;  
 [✅] Dia 19 - Calculadora de Potência&nbsp;  
 [✅] Dia 20 - Texto Maluco&nbsp;  
-[ ] Dia 21 - Verificador de CEP por API via CEP&nbsp;
+[✅] Dia 21 - Verificador de CEP por API via CEP&nbsp;
 
 ---
