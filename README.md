@@ -42,4 +42,5 @@
 
 #### Semana 04
 
-[✅] Dia 22 - Conversor de idade para dias&nbsp;
+[✅] Dia 22 - Conversor de idade para dias&nbsp;  
+[✅] Dia 23 - Procurando o Nemo&nbsp;  
