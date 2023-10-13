@@ -44,4 +44,5 @@
 
 [✅] Dia 22 - Conversor de idade para dias&nbsp;  
 [✅] Dia 23 - Procurando o Nemo&nbsp;  
-[✅] Dia 24 - Contador de espetinhos&nbsp;
+[✅] Dia 24 - Contador de espetinhos&nbsp;  
+[✅] Dia 25 - Johnny fez progresso?&nbsp;
