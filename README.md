@@ -48,3 +48,4 @@
 [✅] Dia 25 - Johnny fez progresso?&nbsp;  
 [✅] Dia 26 - Pares de Meias&nbsp;  
 [✅] Dia 27 - Próximo primo&nbsp;
+[✅] Dia 28 - Merge Short Array&nbsp;
