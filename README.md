@@ -51,3 +51,11 @@
 [✅] Dia 28 - Merge Short Array&nbsp;
 
 ---
+
+### Mês 02
+
+---
+
+#### Semana 05
+
+[✅] Dia 29 - Combinação de letras e números&nbsp;
