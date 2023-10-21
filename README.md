@@ -59,4 +59,6 @@
 #### Semana 05
 
 [✅] Dia 29 - Combinação de letras e números&nbsp;  
-[✅] Dia 30 - Trapping Water&nbsp;
+[✅] Dia 30 - Trapping Water&nbsp;  
+[✅] Dia 31 - Busca Binária&nbsp;  
+[✅] Dia 32 - Binário para Decimal&nbsp;
