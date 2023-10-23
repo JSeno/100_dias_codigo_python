@@ -62,4 +62,5 @@
 [✅] Dia 30 - Trapping Water&nbsp;  
 [✅] Dia 31 - Busca Binária&nbsp;  
 [✅] Dia 32 - Binário para Decimal&nbsp;  
-[✅] Dia 33 - Cálculo de Raiz Quadrada&nbsp;
+[✅] Dia 33 - Cálculo de Raiz Quadrada&nbsp;  
+[✅] Dia 34 - Jogo da Forca&nbsp;
