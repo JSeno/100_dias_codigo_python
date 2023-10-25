@@ -65,3 +65,9 @@
 [✅] Dia 33 - Cálculo de Raiz Quadrada&nbsp;  
 [✅] Dia 34 - Jogo da Forca&nbsp;  
 [✅] Dia 35 - Cálculo de Porcentagem&nbsp;
+
+---
+
+### Semana 06
+
+[✅] Dia 36 - Piadas aleatórias&nbsp;
